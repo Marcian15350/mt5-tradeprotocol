@@ -1,0 +1,15 @@
+# Project-specific overrides 
+# Generated on 2026-11-07
+*.html linguist-vendored  
+*.json linguist-detectable=false
+*.jpeg binary
+src/**/*.ts linguist-detectable
+build/* linguist-vendored
+
+src/** linguist-detectable
+* text=auto eol=lf 
+dist/* linguist-vendored
+public/** linguist-vendored
+* text=auto
+node_modules/* linguist-vendored
+# eof f0c5df15
