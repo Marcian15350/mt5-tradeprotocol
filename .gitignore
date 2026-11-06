@@ -1,0 +1,6 @@
+.DS_Store
+.env.local
+.env
+yarn-error.log*
+coverage/
+node_modules/
